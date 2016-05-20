@@ -1,0 +1,14 @@
+.nota {
+  display: block;
+  width: 100%;
+  padding: 1.5em 1em 1em;
+  background: #EBEF40;
+  box-sizing: border-box;
+  text-align: left;
+  opacity: 1;
+  transition: opacity 1s ease;
+}
+
+.nota--sumindo {
+  opacity: 0;
+}

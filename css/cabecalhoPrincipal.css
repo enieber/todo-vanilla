@@ -1,0 +1,11 @@
+.cabecalhoPrincipal {
+  font-size: 1rem;
+  background: #006297;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+.cabecalhoPrincipal-titulo {
+  color: #8EAEBD;
+  font-size: 2em;
+}
