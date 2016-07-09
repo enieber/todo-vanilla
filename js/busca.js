@@ -1,4 +1,5 @@
-  document.querySelector('.cabecalhoPrincipal-busca').addEventListener('input', function (event) {
+  document.querySelector('.cabecalhoPrincipal-busca')
+    .addEventListener('input', function (event) {
     var input = event.target
     var cartoes = document.querySelectorAll('.nota')
 
